@@ -5,5 +5,5 @@ This program contains my solution for reversing a singly linked list in Leet Cod
 ## Problem
 
 <div align="center">
-  <img src="reverse-sll.png" alt="questions from project 4" width="1500px" />
+  <img src="reverse-sll.png" alt="imagee of LeetCode question #206" width="1500px" />
 </div>
